@@ -15,10 +15,11 @@ system. Registered users will have the ability to post, edit and delete their ow
 ### My benefits from this project:
   
 * Develop a RESTful web application using Python's framework Flask
-. 
+
+* Implement third-party OAuth authentication.
+
 * Implement CRUD (create, read, update and delete) operations.
  
-* Implement third-party OAuth authentication.
    
 
 
